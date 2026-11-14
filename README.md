@@ -1,26 +1,17 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/330119614?v=4" width="180" alt="Athul Krishna">
-</p>
+# Hi, I'm Athul Krishna A. S. 👋
+### GIS & Remote Sensing Graduate | Spatial Analysis | Environmental Mapping
 
-<h1 align="center">Hi, I'm Athul Krishna A. S. 👋</h1>
-<h3 align="center">GIS & Remote Sensing Graduate | Spatial Analysis | Environmental Mapping</h3>
+📍 Ireland  
+🎓 MSc GIS & Remote Sensing — Maynooth University, 2025  
+🌍 BSc Geology — 2023  
 
-<p align="center">
-  📍 Ireland · 🎓 MSc GIS & Remote Sensing, Maynooth University · 🌍 BSc Geology
-</p>
-
-<p align="center">
-  <a href="https://athul-krishna-gis-portfolio.athulkrishnaa2002.chatgpt.site">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/">LinkedIn</a>
-</p>
+[Portfolio website](https://athul-krishna-gis-portfolio.athulkrishnaa2002.chatgpt.site) · [Connect with me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/) · [Project repository](https://github.com/athulkrishnaa2002-jpg/gis-remote-sensing-portfolio)
 
 ## About Me
 
-I turn spatial data into clear maps and practical insight. With an MSc in GIS and Remote Sensing and a background in geology, I’ve worked on projects covering healthcare access, flood susceptibility, water quality, spatial statistics, and drone and LiDAR mapping.
+I am a GIS and Remote Sensing graduate with a geology background and experience in spatial analysis, satellite imagery, drone data, and web mapping.
 
-I enjoy taking a project from data preparation and analysis through to presenting results in a way people can understand. My experience includes ArcGIS Pro, QGIS, satellite imagery, spatial modelling, and web mapping, as well as an internship with 5*S Space Surveyors & Students.
-
-I’m looking for opportunities to apply my GIS and remote-sensing skills to real-world environmental, planning, or infrastructure challenges.
+My projects explore access to healthcare, flood susceptibility, environmental conditions, census patterns, image analysis, and terrain. I’m interested in GIS, remote sensing, environmental analysis, and urban and transport planning.
 
 ## Technical Skills
 
@@ -137,5 +128,4 @@ Worked with drone-survey outputs and geospatial data, supported Pix4D processing
 
 Interested in GIS opportunities or geospatial projects?
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/) ·
-[Visit my portfolio](https://athul-krishna-gis-portfolio.athulkrishnaa2002.chatgpt.site)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/) · [Visit my portfolio](https://athul-krishna-gis-portfolio.athulkrishnaa2002.chatgpt.site)
