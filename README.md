@@ -2,97 +2,130 @@
 ### GIS & Remote Sensing Graduate | Spatial Analysis | Environmental Mapping
 
 📍 Ireland  
-🎓 MSc GIS & Remote Sensing — Maynooth University  
-🌍 BSc Geology  
+🎓 MSc GIS & Remote Sensing — Maynooth University, 2025  
+🌍 BSc Geology — 2023  
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/)
+[Portfolio website](https://athul-krishna-gis-portfolio.athulkrishnaa2002.chatgpt.site) · [Connect with me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/) · [Project repository](https://github.com/athulkrishnaa2002-jpg/gis-remote-sensing-portfolio)
 
 ## About Me
 
-I am a GIS and Remote Sensing graduate with a background in geology
-and experience through university projects and an internship in
-spatial analysis, satellite imagery, drone data, and web mapping.
+I am a GIS and Remote Sensing graduate with a geology background and experience in spatial analysis, satellite imagery, drone data, and web mapping.
 
-My work explores how geospatial methods can help assess flood risk,
-environmental inequality, water quality, and access to healthcare.
-
-I am interested in opportunities in GIS, remote sensing,
-environmental analysis, and urban and transport planning.
+My projects explore access to healthcare, flood susceptibility, environmental conditions, census patterns, image analysis, and terrain. I’m interested in GIS, remote sensing, environmental analysis, and urban and transport planning.
 
 ## Technical Skills
 
-| Area | Tools and Methods |
-|------|-------------------|
-| GIS and Mapping | ArcGIS Pro, QGIS, ArcGIS Online |
-| Web Mapping | ArcGIS Experience Builder, ArcGIS StoryMaps |
-| Spatial Analysis | Multi-Criteria Evaluation, AHP, IDW interpolation, zonal statistics |
-| Accessibility Analysis | Two-Step Floating Catchment Area (2SFCA) |
-| Remote Sensing | Sentinel-2 and Landsat imagery analysis |
-| Drone Data Processing | Pix4D, orthomosaics, digital surface and terrain models |
-| Data Analysis | Random forest, model evaluation using RMSE and R² |
+| Area | Tools and methods |
+|---|---|
+| GIS and mapping | ArcGIS Pro, QGIS, ArcGIS Online |
+| Web mapping | ArcGIS Experience Builder, ArcGIS StoryMaps |
+| Spatial analysis | 2SFCA, AHP, weighted overlay, IDW, zonal statistics, bivariate LISA |
+| Remote sensing | Sentinel-2, Landsat 8, ERDAS IMAGINE, GRASS GIS |
+| Image analysis | Image rectification, resampling, segmentation |
+| Drone and terrain data | Pix4D, ground control points, point clouds, DSM, DTM, DEM |
+| Data analysis | Random forest, RMSE, R² |
 
-## Selected Academic Projects
+## Selected Projects
 
-### 🌊 Flood Risk Assessment — Kerala
-My MSc final project explored flood risk through GIS-based
-Multi-Criteria Evaluation.
+### 🏥 Access to GPs in Ireland
+**Individual coursework · Healthcare accessibility**
 
-- Incorporated elevation, soil, rainfall, drainage, population,
-  and land-use/land-cover data.
-- Used Analytical Hierarchy Process (AHP) weighting.
-- Connected the project to UN Sustainable Development Goal 13:
-  Climate Action.
+- Used the two-step floating catchment area (2SFCA) method to examine GP access across Irish electoral divisions.
+- Prepared GP locations and 2022 population data, created 15 km catchments, and mapped accessibility in QGIS.
+- The model showed higher access around Dublin and Cork and lower access in many rural areas, particularly in the west.
+- **Limitation:** Used straight-line catchments; did not measure travel time, appointment availability, or practice capacity.
 
-### 🏥 Access to GP Services
-Assessed geographical access to healthcare using GIS.
+### 🌊 Flood Risk in Thrissur, Kerala
+**MSc project · Flood susceptibility**
 
-- Applied the Two-Step Floating Catchment Area (2SFCA) method.
-- Combined GP location data with census population data.
-- Explored spatial differences in access to services.
+- Combined elevation, slope, rainfall, soil, land cover, hydrology, and population layers.
+- Applied Analytic Hierarchy Process (AHP) weighting and weighted overlay in ArcGIS Pro.
+- Produced a 2018 assessment and an exploratory 2040 scenario, highlighting susceptible low-lying areas near the Kurumali, Karuvannur, and Manali rivers.
+- **Limitation:** The 2040 output is an assumption-based scenario, not a verified forecast.
 
-### 🏙️ Fair City? — Environmental Inequality in Dublin
-Contributed to a group web-mapping project exploring noise,
-air pollution, and inequality.
+### 🏙️ Fair City? Dublin
+**Group project · Urban environmental analysis**
 
-- Focused on noise pollution analysis and mapping.
-- Used IDW interpolation and zonal statistics.
-- Contributed to a platform developed with ArcGIS Pro and
-  ArcGIS Experience Builder.
+- Led the noise-pollution analysis for a group project on urban inequality, noise, and air pollution.
+- Worked with industrial, road, rail, and airport noise data.
+- Used inverse distance weighting (IDW) and zonal statistics to prepare maps and area summaries for an ArcGIS Experience Builder presentation.
+- The wider inequality and air-pollution work was collaborative.
 
-### 🛰️ Water Quality Assessment — Waterford
-Investigated water quality indicators using satellite imagery.
+### 🛰️ Water Quality in Waterford
+**Group project · Earth observation**
 
-- Worked with Sentinel-2 and Landsat 8 imagery.
-- Examined turbidity, chlorophyll-a, and total suspended matter.
-- Applied random forest methods and evaluated results using
-  RMSE and R².
+- Contributed to a team study of satellite-derived water-quality indicators in the Suir and Colligan-Mahon catchment context.
+- Project methods included Sentinel-2 turbidity and suspended-matter indicators, Landsat 8 chlorophyll-a, random forest modelling, and RMSE/R² evaluation.
+- Helped analyse and communicate water-quality patterns.
+- This group project is separate from my individual Wexford water-quality report below.
+
+### 📊 2022 Census Mapping and Clusters
+**Individual coursework · Spatial statistics**
+
+- Mapped Irish census variables across electoral divisions and small areas using QGIS.
+- Used bivariate Local Indicators of Spatial Association (LISA) to explore spatial relationships and clustering.
+- **Limitation:** Spatial associations do not establish causation.
+
+### 🚁 Lullymore Drone Survey
+**Internship · 5*S Space Surveyors & Students · June–July 2025**
+
+- Worked with Mavic and eBee survey material, ground control points, and Pix4D outputs.
+- Reviewed DSM/DTM products, multispectral imagery, point clouds, and drone video.
+- Developed ArcGIS StoryMap material and provided weekly updates during the internship.
+
+### 🌱 Water-Quality Indices in Wexford
+**Individual report · Remote sensing**
+
+- Prepared Sentinel-2 imagery and mapped turbidity, chlorophyll-a, and suspended-solids indices for Wexford water bodies, including the River Slaney, Lady’s Island Lake, and Tacumshin Lake.
+- Used NDVI and NDWI predictors with random forest regression in QGIS and R.
+- Reported model-fit values:
+
+| Index | R² | RMSE |
+|---|---:|---:|
+| Turbidity | 0.755 | 0.08 |
+| Chlorophyll-a | 0.7912 | 0.0943 |
+| Suspended solids | 0.7275 | 0.07 |
+
+- **Limitation:** These are fits to satellite-derived indices, not independent validation against field water samples.
+
+### 🗺️ Image Rectification in Galway
+**Individual coursework · Geometric correction**
+
+- Compared first-, second-, and third-order polynomial transformations using ground control points.
+- Reviewed nearest-neighbour, bilinear, and cubic-convolution resampling in ERDAS IMAGINE and ArcGIS Pro.
+- Produced rectified images, control-point tables, and visual comparisons.
+- **Limitation:** Control-point residuals alone do not establish positional accuracy.
+
+### 🧩 Image Segmentation in Maynooth
+**Individual coursework · Object-based image analysis**
+
+- Compared ERDAS Feature Level Segmentation with GRASS `i.segment` through QGIS using four-band aerial imagery.
+- Varied segmentation settings and compared outputs using overlays.
+- For the settings tested, ERDAS produced larger, smoother segments, while QGIS produced more fragmented regions.
+- **Limitation:** The segments were not independently validated as land-cover classes.
+
+### ⛰️ LiDAR Terrain Modelling in New Zealand
+**Individual coursework · Point-cloud analysis**
+
+- Worked with New Zealand LiDAR data from OpenTopography.
+- Explored ground, vegetation, and building point classes and produced terrain and surface-model outputs.
+- Examined DEM/DSM, slope, aspect, and hillshade using ArcGIS Pro and ERDAS IMAGINE.
+- **Limitation:** The software comparison was qualitative and did not establish an independent accuracy ranking.
 
 ## Internship Experience
 
 ### 5*S Space Surveyors & Students
 **June–July 2025**
 
-- Worked with drone survey outputs and geospatial data.
-- Presented project outputs through an ArcGIS StoryMap.
-- Prepared progress updates and a final internship report.
+Worked with drone-survey outputs and geospatial data, supported Pix4D processing and quality checks, and presented outputs through an ArcGIS StoryMap.
 
-## Drone and Photogrammetry Experience
+## Education
 
-Through university practical work at Lullymore peatland, I gained
-experience with:
-
-- Mavic and eBee drone survey workflows.
-- Ground control points and Pix4D processing.
-- Orthomosaics, point clouds, and digital surface and terrain models.
-- Multispectral imagery and visual presentation of survey results.
-
-## Portfolio Development
-
-I am building this portfolio to share project maps, methods,
-reports, and interactive outputs from my GIS work.
+- **MSc GIS & Remote Sensing** — Maynooth University, 2025
+- **BSc Geology** — 2023
 
 ## Contact
 
-Interested in discussing GIS opportunities or geospatial projects?
+Interested in GIS opportunities or geospatial projects?
 
-[Find me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/athul-krishna-a-s-3324b2271/) · [Visit my portfolio](https://athul-krishna-gis-portfolio.athulkrishnaa2002.chatgpt.site)
