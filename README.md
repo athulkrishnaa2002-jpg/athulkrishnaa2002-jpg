@@ -51,14 +51,6 @@ My projects explore access to healthcare, flood susceptibility, environmental co
 - Used inverse distance weighting (IDW) and zonal statistics to prepare maps and area summaries for an ArcGIS Experience Builder presentation.
 - The wider inequality and air-pollution work was collaborative.
 
-### 🛰️ Water Quality in Waterford
-**Group project · Earth observation**
-
-- Contributed to a team study of satellite-derived water-quality indicators in the Suir and Colligan-Mahon catchment context.
-- Project methods included Sentinel-2 turbidity and suspended-matter indicators, Landsat 8 chlorophyll-a, random forest modelling, and RMSE/R² evaluation.
-- Helped analyse and communicate water-quality patterns.
-- This group project is separate from my individual Wexford water-quality report below.
-
 ### 📊 2022 Census Mapping and Clusters
 **Individual coursework · Spatial statistics**
 
@@ -73,11 +65,13 @@ My projects explore access to healthcare, flood susceptibility, environmental co
 - Reviewed DSM/DTM products, multispectral imagery, point clouds, and drone video.
 - Developed ArcGIS StoryMap material and provided weekly updates during the internship.
 
-### 🌱 Water-Quality Indices in Wexford
+### 🌱 Water-Quality Analysis in Wexford
 **Individual report · Remote sensing**
 
-- Prepared Sentinel-2 imagery and mapped turbidity, chlorophyll-a, and suspended-solids indices for Wexford water bodies, including the River Slaney, Lady’s Island Lake, and Tacumshin Lake.
+- Prepared Sentinel-2 and Landsat 8 imagery for water-quality analysis in Wexford water bodies, including the River Slaney, Lady’s Island Lake, and Tacumshin Lake.
+- Used Sentinel-2 indicators for turbidity and suspended solids, and Landsat 8 for chlorophyll-a.
 - Used NDVI and NDWI predictors with random forest regression in QGIS and R.
+- Produced indicator maps, predicted raster surfaces, and observed-versus-predicted plots.
 - Reported model-fit values:
 
 | Index | R² | RMSE |
